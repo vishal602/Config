@@ -1,17 +1,17 @@
-bootstrapConfig: |
-bind_host: 0.0.0.0
-bind_port: 80
-beta_bind_port: 0
-users:
-- name: admin
+AdGuardHome.yaml: |-
+  bind_host: 0.0.0.0
+  bind_port: 80
+  beta_bind_port: 0
+  users:
+  - name: admin
   password: $2a$10$YF.WDPD3ANbvGxDfq4xjYOekG812K3bnpW6pCKSyZ9.ZdWfFrgDMG
-auth_attempts: 5
-block_auth_min: 15
-http_proxy: ""
-language: ""
-debug_pprof: false
-web_session_ttl: 720
-dns:
+  auth_attempts: 5
+  block_auth_min: 15
+  http_proxy: ""
+  language: ""
+  debug_pprof: false
+  web_session_ttl: 720
+  dns:
   bind_hosts:
   - 0.0.0.0
   port: 53
@@ -82,7 +82,7 @@ dns:
   private_networks: []
   use_private_ptr_resolvers: true
   local_ptr_upstreams: []
-tls:
+  tls:
   enabled: false
   server_name: ""
   force_https: false
@@ -97,28 +97,28 @@ tls:
   private_key: ""
   certificate_path: ""
   private_key_path: ""
-filters:
-- enabled: true
+  filters:
+  - enabled: true
   url: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
   name: AdGuard DNS filter
   id: 1
-- enabled: false
+  - enabled: false
   url: https://adaway.org/hosts.txt
   name: AdAway Default Blocklist
   id: 2
-- enabled: true
+  - enabled: true
   url: https://block.energized.pro/basic/formats/hosts.txt
   name: Energized Protection Basic
   id: 1657845708
-- enabled: true
+  - enabled: true
   url: https://www.malwaredomainlist.com/hostslist/hosts.txt
   name: MalwareDomainList.com Hosts List
   id: 1657845709
-whitelist_filters: []
-user_rules:
-- '@@||porzo.com^$client=''192.168.147.15'''
-- ""
-dhcp:
+  whitelist_filters: []
+  user_rules:
+  - '@@||porzo.com^$client=''192.168.147.15'''
+  - ""
+  dhcp:
   enabled: false
   interface_name: ""
   local_domain_name: lan
@@ -135,7 +135,7 @@ dhcp:
     lease_duration: 86400
     ra_slaac_only: false
     ra_allow_slaac: false
-clients:
+  clients:
   runtime_sources:
     whois: true
     arp: true
@@ -143,15 +143,15 @@ clients:
     dhcp: true
     hosts: true
   persistent: []
-log_compress: false
-log_localtime: false
-log_max_backups: 0
-log_max_size: 100
-log_max_age: 3
-log_file: ""
-verbose: false
-os:
+  log_compress: false
+  log_localtime: false
+  log_max_backups: 0
+  log_max_size: 100
+  log_max_age: 3
+  log_file: ""
+  verbose: false
+  os:
   group: ""
   user: ""
   rlimit_nofile: 0
-schema_version: 14
+  schema_version: 14
