@@ -97,6 +97,10 @@ filters:
   id: 1657845709
   name: MalwareDomainList.com Hosts List
   url: https://www.malwaredomainlist.com/hostslist/hosts.txt
+- enabled: true
+  id: 3
+  name: milleruk Hosts List
+  url: https://github.com/milleruk/adguard-filter-list/blob/main/blocklist?raw=true
 log_compress: false
 log_localtime: false
 log_max_age: 3
