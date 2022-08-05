@@ -83,12 +83,12 @@ dns:
 filters:
 - enabled: true
   id: 1
-  name: AdGuard DNS filter
-  url: https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-- enabled: false
+  name: milleruk Hosts List
+  url: https://github.com/milleruk/adguard-filter-list/blob/main/blocklist?raw=true
+- enabled: true
   id: 2
-  name: AdAway Default Blocklist
-  url: https://adaway.org/hosts.txt
+  name: Anti-AD
+  url: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 - enabled: true
   id: 1657845708
   name: Energized Protection Basic
@@ -97,10 +97,6 @@ filters:
   id: 1657845709
   name: MalwareDomainList.com Hosts List
   url: https://www.malwaredomainlist.com/hostslist/hosts.txt
-- enabled: true
-  id: 3
-  name: milleruk Hosts List
-  url: https://github.com/milleruk/adguard-filter-list/blob/main/blocklist?raw=true
 log_compress: false
 log_localtime: false
 log_max_age: 3
