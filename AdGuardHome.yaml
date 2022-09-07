@@ -90,6 +90,18 @@ filters:
   name: Anti-AD
   url: https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt
 - enabled: true
+  id: 3
+  name: EasyList Cookiemonster
+  url: https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+- enabled: true
+  id: 4
+  name: Fanboy's Annoyance
+  url: https://secure.fanboy.co.nz/fanboy-annoyance.txt
+- enabled: true
+  id: 5
+  name: oisd full
+  url: https://abp.oisd.nl
+- enabled: true
   id: 1657845708
   name: Energized Protection Basic
   url: https://block.energized.pro/basic/formats/hosts.txt
