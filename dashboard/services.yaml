@@ -1,8 +1,7 @@
 - Home-lab:
     - Longhorn:
-        - icon: https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-storage-computer-science-flaticons-flat-flat-icons.png
+        - icon: longhorn.png
           href: https://longhorn.pradax.tk
-          description: Storage Management
 
 - Developer:
     - Github:
