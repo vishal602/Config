@@ -1,23 +1,18 @@
-title: Pradax Home Lab
-
-background: https://source.unsplash.com/random/?blur
-
 - resources:
     cpu: true
     memory: true
     disk: /
 
 - search:
-    provider: duckduckgo
+    provider: google
     target: _blank
 
 - weatherapi:
-    label: Home
+    label: Home # optional
     latitude: -37.065020
     longitude: 174.966920
-    units: metric
-    apikey: fb6a1e05e5a7463c8aa204145211711
-    cache: 5
-
+    units: metric # or imperial
+    apiKey: fb6a1e05e5a7463c8aa204145211711
+    cache: 5 # Time in minutes to cache API responses, to stay within limits
 
 

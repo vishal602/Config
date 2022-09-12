@@ -2,10 +2,23 @@
     - Github:
         - abbr: GH
           href: https://github.com/
+    - Github Dev:
+        - abbr: GHDEV
+          href: https://github.dev/github/dev
+    - Gitlab:
+        - abbr: GL
+          href: https://gitlab.com/users/sign_in/
+    - Artifact Hub:
+        - abbr: AH
+          href: https://artifacthub.io/
+
 - Social:
     - Reddit:
         - abbr: RE
           href: https://reddit.com/
+    - Facebook:
+        - abbr: FB
+          href: https://facebook.com
 
 - Entertainment:
     - YouTube:
@@ -16,12 +29,22 @@
     - Freenom:
         - abbr: DMN
           href: https://my.freenom.com/clientarea.php
-    
     - Oracle Cloud:
         - abbr: OC
           href: https://www.oracle.com/nz/cloud/sign-in.html
-
     - Cloueflare:
         - abbr: CF
           href: https://dash.cloudflare.com/login
+    - Azure:
+        - abbr: AZ
+          href: https://portal.azure.com
+    
+- Email:
+    - Gmail:
+        - abbr: GMAIL
+          href: https://accounts.google.com
+    - Outlook:
+        - abbr: OTLK
+          href: https://outlook.live.com
+
 
