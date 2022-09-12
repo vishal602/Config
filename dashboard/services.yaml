@@ -3,10 +3,10 @@
     - Longhorn:
           href: https://longhorn.pradax.tk
     
-    - firewall:
+    - Firewall:
           href: https://firewall.pradax.tk/admin
 
-    - traefik:
+    - Traefik:
           href: https://traefik.pradax.tk
 
     - Auth:
@@ -21,7 +21,7 @@
     - ArgoCD:
           href: https://argocd.pradax.tk
 
-- Pradax VDI Servers:
+- VDI Servers:
     - ProxmoxSRV1:
           href: https://proxmoxsrv1.pradax.tk
 

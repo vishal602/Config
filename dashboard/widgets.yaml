@@ -1,3 +1,7 @@
+title: Pradax Home Lab
+
+background: https://source.unsplash.com/random/?blur
+
 - resources:
     cpu: true
     memory: true
@@ -14,4 +18,6 @@
     units: metric
     apikey: fb6a1e05e5a7463c8aa204145211711
     cache: 5
+
+
 
