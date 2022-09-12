@@ -2,32 +2,24 @@
 - Pradax Applications:
     - Longhorn:
           href: https://longhorn.pradax.tk
-    
     - Firewall:
           href: https://firewall.pradax.tk/admin
-
     - Traefik:
           href: https://traefik.pradax.tk
-
     - Auth:
           href: https://auth.pradax.tk
-
     - Pihole:
           href: https://pihole.pradax.tk/admin
-
     - Uptime:
           href: https://uptime.pradax.tk
-    
     - ArgoCD:
           href: https://argocd.pradax.tk
 #####################################################################################
 - VDI Servers:
     - ProxmoxSRV1:
           href: https://proxmoxsrv1.pradax.tk
-
     - ProxmoxSRV2:
           href: https://proxmoxsrv2.pradax.tk
-    
     - ProxmoxSRV3:
           href: https://proxmoxsrv3.pradax.tk
 #####################################################################################
