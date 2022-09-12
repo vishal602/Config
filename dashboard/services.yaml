@@ -28,15 +28,15 @@
         - icon: argocd.png
           href: https://argocd.pradax.tk
 
-- Pradax VDI Servers:
-    - ProxmoxSRV1:
-        - icon: proxmox.png
-          href: https://proxmoxsrv1.pradax.tk
+# - Pradax VDI Servers:
+#     - ProxmoxSRV1:
+#         - icon: proxmox.png
+#           href: https://proxmoxsrv1.pradax.tk
 
-    - ProxmoxSRV2:
-        - icon: proxmox.png
-          href: https://proxmoxsrv2.pradax.tk
+#     - ProxmoxSRV2:
+#         - icon: proxmox.png
+#           href: https://proxmoxsrv2.pradax.tk
     
-    - ProxmoxSRV3:
-        - icon: proxmox.png
+#     - ProxmoxSRV3:
+#         - icon: proxmox.png
           href: https://proxmoxsrv3.pradax.tk

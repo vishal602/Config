@@ -12,3 +12,8 @@
     - YouTube:
         - abbr: YT
           href: https://youtube.com/
+
+- Pradax VDI Servers:
+    - ProxmoxSRV1:
+        - abbr: VDI
+          href: https://proxmoxsrv1.pradax.tk
