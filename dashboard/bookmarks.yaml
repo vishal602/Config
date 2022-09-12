@@ -11,7 +11,7 @@
     - Artifact Hub:
         - abbr: AH
           href: https://artifacthub.io/
-
+#####################################################################################
 - Social:
     - Reddit:
         - abbr: RE
@@ -24,7 +24,7 @@
     - YouTube:
         - abbr: YT
           href: https://youtube.com/
-        
+#####################################################################################        
 # - My Links:
 #     - Freenom:
 #         - abbr: DMN
@@ -39,12 +39,12 @@
 #         - abbr: AZ
 #           href: https://portal.azure.com
     
-- Email:
-    - Gmail:
-        - abbr: GMAIL
-          href: https://accounts.google.com
-    - Outlook:
-        - abbr: OTLK
-          href: https://outlook.live.com
+# - Email:
+#     - Gmail:
+#         - abbr: GMAIL
+#           href: https://accounts.google.com
+#     - Outlook:
+#         - abbr: OTLK
+#           href: https://outlook.live.com
 
 

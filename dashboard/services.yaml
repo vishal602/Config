@@ -20,7 +20,7 @@
     
     - ArgoCD:
           href: https://argocd.pradax.tk
-
+#####################################################################################
 - VDI Servers:
     - ProxmoxSRV1:
           href: https://proxmoxsrv1.pradax.tk
@@ -30,17 +30,19 @@
     
     - ProxmoxSRV3:
           href: https://proxmoxsrv3.pradax.tk
-
+#####################################################################################
 - My Links:
     - Freenom:
-        - abbr: DMN
           href: https://my.freenom.com/clientarea.php
     - Oracle Cloud:
-        - abbr: OC
           href: https://www.oracle.com/nz/cloud/sign-in.html
     - Cloueflare:
-        - abbr: CF
           href: https://dash.cloudflare.com/login
     - Azure:
-        - abbr: AZ
           href: https://portal.azure.com
+#####################################################################################
+- Email:
+    - Gmail:
+          href: https://accounts.google.com
+    - Outlook:
+          href: https://outlook.live.com
