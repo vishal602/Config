@@ -31,3 +31,16 @@
     - ProxmoxSRV3:
           href: https://proxmoxsrv3.pradax.tk
 
+- My Links:
+    - Freenom:
+        - abbr: DMN
+          href: https://my.freenom.com/clientarea.php
+    - Oracle Cloud:
+        - abbr: OC
+          href: https://www.oracle.com/nz/cloud/sign-in.html
+    - Cloueflare:
+        - abbr: CF
+          href: https://dash.cloudflare.com/login
+    - Azure:
+        - abbr: AZ
+          href: https://portal.azure.com
