@@ -7,13 +7,3 @@
     provider: duckduckgo
     target: _blank
 
-widget:
-  type: pihole-local
-  url: http://192.168.147.140
-  proxy: true
-
-widget:
-  type: pihole-RPi
-  url: http://192.168.147.170
-  proxy: true
-  
