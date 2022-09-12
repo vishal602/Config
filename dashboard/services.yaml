@@ -1,23 +1,18 @@
 #icons from the URL: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/
 - Pradax Applications:
     - Longhorn:
-        - icon: longhorn.png
           href: https://longhorn.pradax.tk
     
     - firewall:
-        - icon: umbrel.png
           href: https://firewall.pradax.tk
 
     - traefik:
-        - icon: traefik.png
           href: https://traefik.pradax.tk
 
     - Auth:
-        - icon: authentik.png
           href: https://authentik.pradax.tk
 
     - Pihole:
-        - icon: pihole.png
           href: https://pihole.pradax.tk/admin
 
     - Uptime:
@@ -25,18 +20,15 @@
           href: https://uptime.pradax.tk
     
     - ArgoCD:
-        - icon: argocd.png
           href: https://argocd.pradax.tk
 
-# - Pradax VDI Servers:
-#     - ProxmoxSRV1:
-#         - icon: proxmox.png
-#           href: https://proxmoxsrv1.pradax.tk
+- Pradax VDI Servers:
+    - ProxmoxSRV1:
+          href: https://proxmoxsrv1.pradax.tk
 
-#     - ProxmoxSRV2:
-#         - icon: proxmox.png
-#           href: https://proxmoxsrv2.pradax.tk
+    - ProxmoxSRV2:
+          href: https://proxmoxsrv2.pradax.tk
     
-#     - ProxmoxSRV3:
-#         - icon: proxmox.png
+    - ProxmoxSRV3:
           href: https://proxmoxsrv3.pradax.tk
+

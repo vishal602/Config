@@ -7,3 +7,11 @@
     provider: duckduckgo
     target: _blank
 
+- weatherapi:
+    label: Home
+    latitude: -37.065020
+    longitude: 174.966920
+    units: imperial
+    apikey: fb6a1e05e5a7463c8aa204145211711
+    cache: 1
+
