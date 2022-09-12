@@ -10,13 +10,12 @@
           href: https://traefik.pradax.tk
 
     - Auth:
-          href: https://authentik.pradax.tk
+          href: https://auth.pradax.tk
 
     - Pihole:
           href: https://pihole.pradax.tk/admin
 
     - Uptime:
-        - icon: uptime-kuma.png
           href: https://uptime.pradax.tk
     
     - ArgoCD:
