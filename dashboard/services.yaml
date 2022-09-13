@@ -32,6 +32,8 @@
           href: https://dash.cloudflare.com/login
     - Azure:
           href: https://portal.azure.com
+    - Scaleway:
+          href: https://console.scaleway.com/login
 #####################################################################################
 - Email:
     - Gmail:
