@@ -14,6 +14,10 @@
           href: https://uptime.pradax.tk
     - ArgoCD:
           href: https://argocd.pradax.tk
+    - Portainer:
+          href: https://portainer.pradax.tk
+    - Guacamole:
+          href: https://guacamole.pradax.tk
 #####################################################################################
 - VDI Servers:
     - ProxmoxSRV1:
