@@ -1,3 +1,4 @@
 @@||tagged.com^important
-@@||amp-9news-com-au.cdn.ampproject.org^$important
-@@||secure-dcr.imrworldwide.com^$important
+@@||ampproject.org^$important
+@@||imrworldwide.com^$important
+@@||ampproject.net^$important
