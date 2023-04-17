@@ -2,3 +2,4 @@
 @@||ampproject.org^$important
 @@||imrworldwide.com^$important
 @@||ampproject.net^$important
+@@||taboola.com^$important
