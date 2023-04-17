@@ -1,5 +1,5 @@
 @@||secure.tagged.com^important
-@@||auth.tagged.com^important
+@@||auth.gateway.tagged.com^important
 @@||push.tagged.com^important
 @@||ampproject.org^$important
 @@||imrworldwide.com^$important
