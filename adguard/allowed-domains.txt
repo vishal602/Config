@@ -1,4 +1,4 @@
-@@||tagged.com^important
+@@||secure.tagged.com^important
 @@||ampproject.org^$important
 @@||imrworldwide.com^$important
 @@||ampproject.net^$important
