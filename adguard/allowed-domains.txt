@@ -4,3 +4,4 @@
 @@||ampproject.net^$important
 @@||taboola.com^$important
 @@||yospace.com^$important
+@@||swm.digital^$important
