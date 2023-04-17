@@ -5,3 +5,4 @@
 @@||taboola.com^$important
 @@||yospace.com^$important
 @@||swm.digital^$important
+@@||auth.gateway.tagged.com^important
