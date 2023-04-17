@@ -1,6 +1,7 @@
-@@||secure.tagged.com^important
-@@||auth.gateway.tagged.com^important
-@@||push.tagged.com^important
+@@||pingback.issuu.com^$important
+@@||push.tagged.com^$important
+@@||secure.tagged.com^$important
+@@||auth.gateway.tagged.com^$important
 @@||ampproject.org^$important
 @@||imrworldwide.com^$important
 @@||ampproject.net^$important
