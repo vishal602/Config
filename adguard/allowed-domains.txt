@@ -1,8 +1,9 @@
 @@||secure.tagged.com^important
+@@||secure.tagged.com^important
+@@||push.tagged.com^important
 @@||ampproject.org^$important
 @@||imrworldwide.com^$important
 @@||ampproject.net^$important
 @@||taboola.com^$important
 @@||yospace.com^$important
 @@||swm.digital^$important
-@@||auth.gateway.tagged.com^important
