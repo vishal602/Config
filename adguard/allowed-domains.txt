@@ -3,3 +3,4 @@
 @@||imrworldwide.com^$important
 @@||ampproject.net^$important
 @@||taboola.com^$important
+@@||yospace.com^$important
