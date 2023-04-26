@@ -8,3 +8,4 @@
 @@||taboola.com^$important
 @@||yospace.com^$important
 @@||swm.digital^$important
+@@||upload-4ever.com^$important
