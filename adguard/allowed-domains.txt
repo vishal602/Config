@@ -11,3 +11,4 @@
 @@||upload-4ever.com^$important
 @@||newrelic.com^$important
 @@||meesys.com^$important
+@@||beatthatflight.com.au^$important
