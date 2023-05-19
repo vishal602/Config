@@ -14,3 +14,4 @@
 @@||beatthatflight.com.au^$important
 @@||globirdenergy.com.au^$important
 @@||igodigital.com^$important
+@@||brightcove.com^$important
