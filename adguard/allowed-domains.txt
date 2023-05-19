@@ -12,3 +12,4 @@
 @@||newrelic.com^$important
 @@||meesys.com^$important
 @@||beatthatflight.com.au^$important
+@@||globirdenergy.com.au^$important
