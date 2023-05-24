@@ -15,3 +15,4 @@
 @@||globirdenergy.com.au^$important
 @@||igodigital.com^$important
 @@||brightcove.com^$important
+@@||cfjump.com^$important
