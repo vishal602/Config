@@ -22,3 +22,4 @@
 @@||skymovieshd.date^$important
 @@||skymovieshd.date^$important
 @@||dudefilms.quest^$important
+@@||ssl.kaptcha.com^$important
