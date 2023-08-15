@@ -25,3 +25,4 @@
 @@||ssl.kaptcha.com^$important
 @@||ipv4.icanhazip.com^$important
 @@||ramm.com^$important
+@@||7eleven.kronos.net^$important
