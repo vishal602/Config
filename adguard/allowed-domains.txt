@@ -26,3 +26,4 @@
 @@||ipv4.icanhazip.com^$important
 @@||ramm.com^$important
 @@||7eleven.kronos.net^$important
+@@||lexa.realestate.com.au^$important
