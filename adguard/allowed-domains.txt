@@ -27,3 +27,4 @@
 @@||ramm.com^$important
 @@||7eleven.kronos.net^$important
 @@||lexa.realestate.com.au^$important
+@@||collections-api.realestate.com.au^$important
