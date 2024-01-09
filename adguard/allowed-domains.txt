@@ -34,4 +34,5 @@
 @@||app-de.onetrust.com^$important
 @@||pradaxtech.tk^$important
 @@||adash-emas.cn-hangzhou.aliyuncs.com^$important
-@@||iwantthatflight.com.au^$important
+iwantthatflight.com.au^$important
+@@||wa.me^$important
