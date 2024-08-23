@@ -39,3 +39,4 @@
 @@||gnlc-vic.campion.education^important
 @@||corroticks285affrierson.com^$important
 @@||maxmind.com^$important
+@@||picsum.photos^$important
