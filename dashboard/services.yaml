@@ -8,8 +8,6 @@
           href: https://traefik.pradaxtech.tk
     - Auth:
           href: https://auth.pradaxtech.tk
-    - Pihole:
-          href: https://pihole.pradaxtech.tk/admin
     - Uptime:
           href: https://uptime.pradaxtech.tk
     - ArgoCD:
@@ -18,14 +16,16 @@
           href: https://portainer.pradaxtech.tk
     - Guacamole:
           href: https://guacamole.pradaxtech.tk
+#     - Pihole:
+#           href: https://pihole.pradaxtech.tk/admin
 #####################################################################################
 - VDI Servers:
     - ProxmoxSRV1:
-          href: https://proxmoxsrv1.pradaxtech.tk
+          href: https://pvesrv1.pradaxtech.tk
     - ProxmoxSRV2:
-          href: https://proxmoxsrv2.pradaxtech.tk
+          href: https://pvesrv2.pradaxtech.tk
     - ProxmoxSRV3:
-          href: https://proxmoxsrv3.pradaxtech.tk
+          href: https://pvesrv3.pradaxtech.tk
 #####################################################################################
 - My Links:
     - Freenom:

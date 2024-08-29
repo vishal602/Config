@@ -1,5 +1,5 @@
 title: Pradax Home Lab
-background: https://source.unsplash.com/random/1920x1080/?wallpaper,landscape
+background: https://picsum.photos/1920/1080?nocache='.microtime()
 backgroundOpacity: 0.5
 theme: dark
 color: slate
