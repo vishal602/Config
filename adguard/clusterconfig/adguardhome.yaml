@@ -10,10 +10,7 @@ language: en
 rlimit_nofile: 0
 debug_pprof: false
 web_session_ttl: 720
-upstream_dns:
-- tls://1.1.1.1
-- https://dns10.quad9.net/dns-query
-- https://doh.opendns.com/dns-query
+upstream_dns: "tls://1.1.1.1"
 bootstrap_dns:
 - 9.9.9.10
 - 149.112.112.10
