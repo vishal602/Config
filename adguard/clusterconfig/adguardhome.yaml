@@ -11,13 +11,6 @@ language: en
 rlimit_nofile: 0
 debug_pprof: false
 web_session_ttl: 720
-upstream_dns: "tls://1.1.1.1"
-bootstrap_dns:
-- 9.9.9.10
-- 149.112.112.10
-- 2620:fe::10
-- 2620:fe::fe:10
-upstream_mode: parallel
 filters:
 - enabled: true
   url: https://github.com/milleruk/adguard-filter-list/blob/main/blocklist?raw=true
