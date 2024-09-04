@@ -1,14 +1,8 @@
 ---
-http:
-  pprof:
-    port: 6060
-    enabled: false
-  address: 0.0.0.0:80
-  session_ttl: 720h
-    bind_host: 0.0.0.0
-    bind_port: 80
-    beta_bind_port: 0
-    auth_name: "admin"
+  bind_host: 0.0.0.0
+  bind_port: 80
+  beta_bind_port: 0
+  auth_name: "admin"
   users:
     - name: admin
       password: $2a$10$YF.WDPD3ANbvGxDfq4xjYOekG812K3bnpW6pCKSyZ9.ZdWfFrgDMG
