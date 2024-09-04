@@ -1,59 +1,59 @@
 ---
-  bind_host: 0.0.0.0
-  bind_port: 80
-  beta_bind_port: 0
-  auth_name: "admin"
-  users:
-    - name: admin
-      password: $2a$10$YF.WDPD3ANbvGxDfq4xjYOekG812K3bnpW6pCKSyZ9.ZdWfFrgDMG
-  block_auth_min: 15
-  http_proxy: ""
-  language: en
-  rlimit_nofile: 0
-  debug_pprof: false
-  web_session_ttl: 720
-  filters:
-  - enabled: true
-    url: https://github.com/milleruk/adguard-filter-list/blob/main/blocklist?raw=true
-    name: milleruk Hosts List
-    id: 1
-  - enabled: true
-    url: https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
-    name: EasyList Cookiemonster
-    id: 2
-  - enabled: true
-    url: https://secure.fanboy.co.nz/fanboy-annoyance.txt
-    name: Fanboy's Annoyance
-    id: 3
-  - enabled: true
-    url: https://abp.oisd.nl
-    name: oisd full
-    id: 4
-  - enabled: true
-    url: https://raw.githubusercontent.com/Ealenn/AdGuard-Home-List/gh-pages/AdGuard-Home-List.Block.txt
-    name: Ealenn Block List
-    id: 5
-  whitelist_filters:
-  - enabled: true
-    url: https://raw.githubusercontent.com/vishal602/Config/main/adguard/allowed-domains.txt
-    name: Vishal's Allow List
-    id: 1
-  - enabled: true
-    url: https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt
-    name: Banks Whitelist
-    id: 2
-  - enabled: false
-    url: https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt
-    name: Pihole General Whitelist
-    id: 3
-  - enabled: false
-    url: https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt
-    name: Sensitive DNS SSL Servers provided by Adguard
-    id: 4
-  - enabled: false
-    url: https://gist.githubusercontent.com/vishal602/cebcf5564675cc5b21789f4b8331e114/raw/08c9616eb954c9f2484217686046ac6991972206/whitelist.txt
-    name: Personal DNS Allowlist
-    id: 5
+bind_host: 0.0.0.0
+bind_port: 80
+beta_bind_port: 0
+auth_name: "admin"
+users:
+  - name: admin
+    password: $2a$10$YF.WDPD3ANbvGxDfq4xjYOekG812K3bnpW6pCKSyZ9.ZdWfFrgDMG
+block_auth_min: 15
+http_proxy: ""
+language: en
+rlimit_nofile: 0
+debug_pprof: false
+web_session_ttl: 720
+filters:
+- enabled: true
+  url: https://github.com/milleruk/adguard-filter-list/blob/main/blocklist?raw=true
+  name: milleruk Hosts List
+  id: 1
+- enabled: true
+  url: https://secure.fanboy.co.nz/fanboy-cookiemonster.txt
+  name: EasyList Cookiemonster
+  id: 2
+- enabled: true
+  url: https://secure.fanboy.co.nz/fanboy-annoyance.txt
+  name: Fanboy's Annoyance
+  id: 3
+- enabled: true
+  url: https://abp.oisd.nl
+  name: oisd full
+  id: 4
+- enabled: true
+  url: https://raw.githubusercontent.com/Ealenn/AdGuard-Home-List/gh-pages/AdGuard-Home-List.Block.txt
+  name: Ealenn Block List
+  id: 5
+whitelist_filters:
+- enabled: true
+  url: https://raw.githubusercontent.com/vishal602/Config/main/adguard/allowed-domains.txt
+  name: Vishal's Allow List
+  id: 1
+- enabled: true
+  url: https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt
+  name: Banks Whitelist
+  id: 2
+- enabled: false
+  url: https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/banks.txt
+  name: Pihole General Whitelist
+  id: 3
+- enabled: false
+  url: https://raw.githubusercontent.com/AdguardTeam/HttpsExclusions/master/exclusions/sensitive.txt
+  name: Sensitive DNS SSL Servers provided by Adguard
+  id: 4
+- enabled: false
+  url: https://gist.githubusercontent.com/vishal602/cebcf5564675cc5b21789f4b8331e114/raw/08c9616eb954c9f2484217686046ac6991972206/whitelist.txt
+  name: Personal DNS Allowlist
+  id: 5
 # users:
 #   - name: admin
 #     password: $2a$10$YF.WDPD3ANbvGxDfq4xjYOekG812K3bnpW6pCKSyZ9.ZdWfFrgDMG
