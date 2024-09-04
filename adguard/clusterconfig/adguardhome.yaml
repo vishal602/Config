@@ -13,10 +13,10 @@ block_auth_min: 15
 http_proxy: ""
 language: en
 theme: auto
-upstream_dns:
-  - tls://1.1.1.1
-  - https://dns10.quad9.net/dns-query
-  - https://doh.opendns.com/dns-query
+# upstream_dns:
+#   - tls://1.1.1.1
+#   - https://dns10.quad9.net/dns-query
+#   - https://doh.opendns.com/dns-query
 # bootstrap_dns:
 #   - 9.9.9.10
 #   - 149.112.112.10
