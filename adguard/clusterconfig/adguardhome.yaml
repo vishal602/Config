@@ -11,7 +11,6 @@ language: en
 rlimit_nofile: 0
 debug_pprof: false
 web_session_ttl: 720
-dns:
 upstream_dns: "tls://1.1.1.1"
 bootstrap_dns:
 - 9.9.9.10
