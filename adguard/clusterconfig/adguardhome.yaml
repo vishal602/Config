@@ -4,8 +4,8 @@ bind_port: 80
 beta_bind_port: 0
 auth_name: "admin"
 users:
-  - name: admin
-    password: $2a$10$YF.WDPD3ANbvGxDfq4xjYOekG812K3bnpW6pCKSyZ9.ZdWfFrgDMG
+- name: admin
+- password: $2a$10$YF.WDPD3ANbvGxDfq4xjYOekG812K3bnpW6pCKSyZ9.ZdWfFrgDMG
 block_auth_min: 15
 http_proxy: ""
 language: en
