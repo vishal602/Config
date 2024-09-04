@@ -2,8 +2,9 @@
 bind_host: 0.0.0.0
 bind_port: 80
 beta_bind_port: 0
-auth_name: admin
-auth_pass: $2y$10$fABUemKMa4TEIpB7Y1Cgj.0FQZBar6qT4aS51m4PmiGlSxx0Q9mP2
+users:
+- name: admin
+  password: $2y$10$fABUemKMa4TEIpB7Y1Cgj.0FQZBar6qT4aS51m4PmiGlSxx0Q9mP2
 block_auth_min: 15
 http_proxy: ""
 language: en
