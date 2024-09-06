@@ -1,12 +1,15 @@
 - Developer:
     - Github:
         - abbr: GH
+          icon: github.png
           href: https://github.com/
     - Github Dev:
         - abbr: GHDV
+          icon: github.png
           href: https://github.dev/github/dev
     - Gitlab:
         - abbr: GL
+          icon: gitlab.png
           href: https://gitlab.com/users/sign_in/
     - Artifact Hub:
         - abbr: AH
@@ -15,6 +18,7 @@
 - Social:
     - Reddit:
         - abbr: RE
+          icon: reddit.png
           href: https://reddit.com/
     - Facebook:
         - abbr: FB

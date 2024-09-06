@@ -2,18 +2,20 @@
 - pradaxtech Applications:
     - Longhorn:
           href: https://longhorn.pradaxtech.tk
+          icon: longhorn.png
     - Firewall:
           href: https://firewall.pradaxtech.tk/admin
+          icon: opnsense.png
     - Argocd:
          href: argocd.pradaxtech.tk
+         icon: argocd.png
     - Traefik:
           href: https://traefik.pradaxtech.tk
     - Auth:
           href: https://auth.pradaxtech.tk
+          icon: authentik.png
     - Uptime:
           href: https://uptime.pradaxtech.tk
-    - ArgoCD:
-          href: https://argocd.pradaxtech.tk
     - Portainer:
           href: https://portainer.pradaxtech.tk
 #     - Guacamole:
@@ -22,20 +24,27 @@
 - VDI Servers:
     - ProxmoxSRV1:
           href: https://pvesrv1.pradaxtech.tk
+          icon: si-#E57000
     - ProxmoxSRV2:
           href: https://pvesrv2.pradaxtech.tk
+          icon: si-#E57000
     - ProxmoxSRV3:
           href: https://pvesrv3.pradaxtech.tk
+          icon: si-#E57000
 #####################################################################################
 - My Links:
     - Freenom:
           href: https://my.freenom.com/clientarea.php
+          icon: freenom.png
     - Oracle Cloud:
           href: https://www.oracle.com/nz/cloud/sign-in.html
+          icon: oracle-cloud.png
     - Cloudflare:
           href: https://dash.cloudflare.com/login
+          icon: cloudflare.png
     - Azure:
           href: https://portal.azure.com
+          icon: azure.png
 #####################################################################################
 - Email:
     - Gmail:
