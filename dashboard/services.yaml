@@ -11,7 +11,7 @@
          icon: argocd.png
     - Traefik:
           href: https://traefik.pradaxtech.tk
-          icon: ss-XX-#24A1C1
+          icon: traefik.png
     - Auth:
           href: https://auth.pradaxtech.tk
           icon: authentik.png
