@@ -17,7 +17,7 @@
           icon: authentik.png
     - Uptime:
           href: https://uptime.pradaxtech.tk
-          icon: ss-XX-#5CDD8B
+          icon: uptime-kuma.png
 #     - Portainer:
 #           href: https://portainer.pradaxtech.tk
 #     - Guacamole:
@@ -26,13 +26,13 @@
 - VDI Servers:
     - ProxmoxSRV1:
           href: https://pvesrv1.pradaxtech.tk
-          icon: si-XX-#E57000
+          icon: proxmox.png
     - ProxmoxSRV2:
           href: https://pvesrv2.pradaxtech.tk
-          icon: si-XX-#E57000
+          icon: proxmox.png
     - ProxmoxSRV3:
           href: https://pvesrv3.pradaxtech.tk
-          icon: si-XX-#E57000
+          icon: proxmox.png
 #####################################################################################
 - My Links:
     - Freenom:

@@ -1,11 +1,11 @@
 - Developer:
     - Github:
         - abbr: GH
-          icon: github.png
+          icon: github-light.png
           href: https://github.com/
     - Github Dev:
         - abbr: GHDV
-          icon: github.png
+          icon: github-light.png
           href: https://github.dev/github/dev
     - Gitlab:
         - abbr: GL
@@ -13,6 +13,7 @@
           href: https://gitlab.com/users/sign_in/
     - Artifact Hub:
         - abbr: AH
+          icon: artifactory.png
           href: https://artifacthub.io/
 #####################################################################################
 - Social:
@@ -22,11 +23,13 @@
           href: https://reddit.com/
     - Facebook:
         - abbr: FB
+          icon: facebook.png
           href: https://facebook.com
 
 - Entertainment:
     - YouTube:
         - abbr: YT
+          icon: youtube.png
           href: https://youtube.com/
 #####################################################################################        
 # - My Links:
