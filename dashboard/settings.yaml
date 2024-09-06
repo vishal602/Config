@@ -7,3 +7,4 @@ background:
 backgroundOpacity: 0.5
 theme: dark
 color: slate
+hideVersion: true

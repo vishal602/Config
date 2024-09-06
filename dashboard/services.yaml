@@ -3,19 +3,25 @@
     - Longhorn:
           href: https://longhorn.pradaxtech.tk
           icon: longhorn.png
+          ping: http://192.168.147.211
+          statusStyle: 'dot'
     - Firewall:
           href: https://firewall.pradaxtech.tk/admin
           icon: opnsense.png
+          ping: http://192.168.147.200
+          statusStyle: 'dot'
     - Argocd:
          href: argocd.pradaxtech.tk
          icon: argocd.png
+         ping: https://192.168.147.215
+         statusStyle: 'dot'
     - Traefik:
          href: https://traefik.pradaxtech.tk
          icon: traefik.png
     - Auth:
           href: https://auth.pradaxtech.tk
           icon: authentik.png
-          ping: https://auth.pradaxtech.tk
+          ping: http://192.168.147.212
           statusStyle: 'dot'
     - Uptime:
           href: https://uptime.pradaxtech.tk
@@ -29,12 +35,18 @@
     - ProxmoxSRV1:
           href: https://pvesrv1.pradaxtech.tk
           icon: proxmox.png
+          ping: https://192.168.147.131:8006
+          statusStyle: 'dot'
     - ProxmoxSRV2:
           href: https://pvesrv2.pradaxtech.tk
           icon: proxmox.png
+          ping: https://192.168.147.132:8006
+          statusStyle: 'dot'
     - ProxmoxSRV3:
           href: https://pvesrv3.pradaxtech.tk
           icon: proxmox.png
+          ping: https://192.168.147.133:8006
+          statusStyle: 'dot'
 #####################################################################################
 - My Links:
     - Freenom:
