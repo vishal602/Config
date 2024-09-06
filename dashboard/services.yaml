@@ -4,6 +4,8 @@
           href: https://longhorn.pradaxtech.tk
     - Firewall:
           href: https://firewall.pradaxtech.tk/admin
+    - Argocd:
+         href: argocd.pradaxtech.tk
     - Traefik:
           href: https://traefik.pradaxtech.tk
     - Auth:
@@ -14,10 +16,8 @@
           href: https://argocd.pradaxtech.tk
     - Portainer:
           href: https://portainer.pradaxtech.tk
-    - Guacamole:
-          href: https://guacamole.pradaxtech.tk
-#     - Pihole:
-#           href: https://pihole.pradaxtech.tk/admin
+#     - Guacamole:
+#           href: https://guacamole.pradaxtech.tk
 #####################################################################################
 - VDI Servers:
     - ProxmoxSRV1:
@@ -36,8 +36,6 @@
           href: https://dash.cloudflare.com/login
     - Azure:
           href: https://portal.azure.com
-    - Scaleway:
-          href: https://console.scaleway.com/login
 #####################################################################################
 - Email:
     - Gmail:
