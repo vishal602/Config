@@ -10,12 +10,13 @@
          href: argocd.pradaxtech.tk
          icon: argocd.png
     - Traefik:
-          href: https://traefik.pradaxtech.tk
-          icon: traefik.png
+         href: https://traefik.pradaxtech.tk
+         icon: traefik.png
     - Auth:
           href: https://auth.pradaxtech.tk
           icon: authentik.png
-          ping: pradaxtech.tk
+          ping: https://auth.pradaxtech.tk
+          statusStyle: 'dot'
     - Uptime:
           href: https://uptime.pradaxtech.tk
           icon: uptime-kuma.png
