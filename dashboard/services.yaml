@@ -3,7 +3,7 @@
     - Longhorn:
           href: https://longhorn.pradaxtech.tk
           icon: longhorn.png
-          ping: http://192.168.147.211
+          ping: https://longhorn.pradaxtech.tk
           statusStyle: 'dot'
     - Firewall:
           href: https://firewall.pradaxtech.tk/admin
@@ -15,14 +15,14 @@
          icon: argocd.png
          ping: https://192.168.147.215
          statusStyle: 'dot'
-    - Traefik:
-         href: https://traefik.pradaxtech.tk
-         icon: traefik.png
     - Auth:
           href: https://auth.pradaxtech.tk
           icon: authentik.png
           ping: http://192.168.147.212
           statusStyle: 'dot'
+    - Traefik:
+         href: https://traefik.pradaxtech.tk
+         icon: traefik.png    
     - Uptime:
           href: https://uptime.pradaxtech.tk
           icon: uptime-kuma.png
