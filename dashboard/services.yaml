@@ -8,8 +8,8 @@
     - Longhorn:
           href: https://longhorn.pradaxtech.tk
           icon: longhorn.png
-      #     ping: https://longhorn.pradaxtech.tk
-      #     statusStyle: 'dot'
+          ping: https://longhorn.pradaxtech.tk
+          statusStyle: 'dot'
     - Firewall:
           href: https://firewall.pradaxtech.tk/admin
           icon: opnsense.png
