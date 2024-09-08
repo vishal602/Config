@@ -1,10 +1,10 @@
 #icons from the URL: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/
 - My Applications:
     - Auth:
-      href: https://auth.pradaxtech.tk
-      icon: authentik.png
-      ping: https://auth.pradaxtech.tk
-      statusStyle: 'dot'
+        href: https://auth.pradaxtech.tk
+        icon: authentik.png
+        ping: https://auth.pradaxtech.tk
+        statusStyle: 'dot'
     - Longhorn:
           href: https://longhorn.pradaxtech.tk
           icon: longhorn.png
