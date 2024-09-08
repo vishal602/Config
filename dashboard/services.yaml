@@ -1,5 +1,10 @@
-#icons from the URL: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/
+.#icons from the URL: https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/
 - My Applications:
+    - Auth:
+      href: https://auth.pradaxtech.tk
+      icon: authentik.png
+      ping: https://auth.pradaxtech.tk
+      statusStyle: 'dot'
     - Longhorn:
           href: https://longhorn.pradaxtech.tk
           icon: longhorn.png
@@ -13,12 +18,14 @@
     - Argocd:
          href: https://argocd.pradaxtech.tk
          icon: argocd.png
+         ping: https://argocd.pradaxtech.tk
+         statusStyle: 'dot'
       #    ping: https://192.168.147.215
       #    statusStyle: 'dot'
-    - Auth:
-          href: https://auth.pradaxtech.tk
-          icon: authentik.png
-          ping: https://auth.pradaxtech.tk
+    - Monitoring:
+          href: https://monitoring.pradaxtech.tk
+          icon: grafana.png
+          ping: https://monitoring.pradaxtech.tk
           statusStyle: 'dot'
     - Traefik:
          href: https://traefik.pradaxtech.tk
