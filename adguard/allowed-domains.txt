@@ -40,3 +40,4 @@
 @@||corroticks285affrierson.com^$important
 @@||maxmind.com^$important
 @@||picsum.photos^$important
+@@||playstation.net^$important
