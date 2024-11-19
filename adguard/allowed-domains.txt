@@ -41,3 +41,4 @@
 @@||maxmind.com^$important
 @@||picsum.photos^$important
 @@||playstation.net^$important
+@@||ru.com^important
