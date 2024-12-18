@@ -42,3 +42,5 @@
 @@||picsum.photos^$important
 @@||playstation.net^$important
 @@||ru.com^$important
+@@||zscalertwo.net^$important
+
