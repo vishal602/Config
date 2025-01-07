@@ -17,11 +17,8 @@
 @@||brightcove.com^$important
 @@||cfjump.com^$important
 @@||s.click.aliexpress.com^$important
-@@||jiotv.cf^$important
-@@||jiocinema.tk^$important
 @@||skymovieshd.date^$important
 @@||skymovieshd.date^$important
-@@||dudefilms.quest^$important
 @@||ssl.kaptcha.com^$important
 @@||ipv4.icanhazip.com^$important
 @@||ramm.com^$important
