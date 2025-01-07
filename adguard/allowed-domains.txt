@@ -43,4 +43,4 @@
 @@||playstation.net^$important
 @@||ru.com^$important
 @@||zscalertwo.net^$important
-
+@@||zpath.net.net^$important
