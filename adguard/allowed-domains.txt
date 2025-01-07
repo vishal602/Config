@@ -44,3 +44,4 @@
 @@||ru.com^$important
 @@||zscalertwo.net^$important
 @@||zpath.net.net^$important
+@@||samlsp.private.zscaler.com^$important
