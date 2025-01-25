@@ -43,3 +43,4 @@
 @@||zpath.net^$important
 @@||samlsp.private.zscaler.com^$important
 @@||tailscale.com^$important
+@@||campion.education^$important
