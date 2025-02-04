@@ -18,7 +18,6 @@
 @@||cfjump.com^$important
 @@||s.click.aliexpress.com^$important
 @@||skymovieshd.date^$important
-@@||skymovieshd.date^$important
 @@||ssl.kaptcha.com^$important
 @@||ipv4.icanhazip.com^$important
 @@||ramm.com^$important
@@ -28,12 +27,13 @@
 @@||nine.com.au^$important
 @@||deliver.oztam.com.au^$important
 @@||signmee.com^$important
+@@||signmee.com.au^$important
 @@||app-de.onetrust.com^$important
 @@||pradaxtech.tk^$important
 @@||adash-emas.cn-hangzhou.aliyuncs.com^$important
 @@||iwantthatflight.com.au^$important
 @@||wa.me^$important
-@@||gnlc-vic.campion.education^important
+@@||gnlc-vic.campion.education^$important
 @@||corroticks285affrierson.com^$important
 @@||maxmind.com^$important
 @@||picsum.photos^$important
