@@ -45,4 +45,4 @@
 @@||tailscale.com^$important
 @@||campion.education^$important
 @@||kisskh.co^$important
-
+@@||revanced.net^$important
