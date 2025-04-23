@@ -48,3 +48,5 @@
 @@||revanced.net^$important
 @@||videodelivery.top^$important
 @@||cambridge.org^$important
+@@||onetrust.com^$important
+@@||gigya.com^$important
