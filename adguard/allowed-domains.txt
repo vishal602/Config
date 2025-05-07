@@ -51,3 +51,4 @@
 @@||onetrust.com^$important
 @@||gigya.com^$important
 @@||graph.facebook.com^$important
+@@||wyze.com^$important
