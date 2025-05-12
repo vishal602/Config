@@ -52,3 +52,4 @@
 @@||gigya.com^$important
 @@||graph.facebook.com^$important
 @@||wyze.com^$important
+@@||woolworths.com.au^$important
