@@ -54,3 +54,4 @@
 @@||wyze.com^$important
 @@||woolworths.com.au^$important
 @@||whirlpool.com.au^$important
+@@||citrix.com^$important
