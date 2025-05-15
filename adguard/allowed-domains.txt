@@ -36,6 +36,7 @@
 @@||gnlc-vic.campion.education^$important
 @@||corroticks285affrierson.com^$important
 @@||maxmind.com^$important
+@@||brevo.com^$important
 @@||picsum.photos^$important
 @@||playstation.net^$important
 @@||ru.com^$important
