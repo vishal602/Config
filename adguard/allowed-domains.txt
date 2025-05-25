@@ -56,3 +56,4 @@
 @@||woolworths.com.au^$important
 @@||whirlpool.com.au^$important
 @@||citrix.com^$important
+@@||wolframalpha.com^$important
