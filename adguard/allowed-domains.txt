@@ -59,5 +59,5 @@
 @@||wolframalpha.com^$important
 @@||mesu.apple.com^$important
 @@||api.smoot.apple.com^$important
-@@||amp-api-edge.apps.apple.com^$important
 @@||mask-api.icloud.com^$important
+@@||apps.apple.com^$important
