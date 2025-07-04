@@ -57,3 +57,6 @@
 @@||whirlpool.com.au^$important
 @@||citrix.com^$important
 @@||wolframalpha.com^$important
+@@||mesu.apple.com^$important
+@@||api.smoot.apple.com^$important
+@@||amp-api-edge.apps.apple.com^$important
