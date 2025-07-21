@@ -61,3 +61,4 @@
 @@||api.smoot.apple.com^$important
 @@||mask-api.icloud.com^$important
 @@||apps.apple.com^$important
+@@||streamsub.top^$important
