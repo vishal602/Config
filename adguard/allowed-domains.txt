@@ -63,3 +63,4 @@
 @@||apps.apple.com^$important
 @@||streamsub.top^$important
 @@||facebook.com^$important
+@@||sendgrid.net^$important
