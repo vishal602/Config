@@ -66,3 +66,4 @@
 @@||sendgrid.net^$important
 @@||a2z.com^$important
 @@||cdn6.top^$important
+@||appsflyer.com^$important
