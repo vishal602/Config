@@ -64,3 +64,4 @@
 @@||streamsub.top^$important
 @@||facebook.com^$important
 @@||sendgrid.net^$important
+@@||insights.video.a2z.com
