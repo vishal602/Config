@@ -64,4 +64,5 @@
 @@||streamsub.top^$important
 @@||facebook.com^$important
 @@||sendgrid.net^$important
-@@||a2z.com
+@@||a2z.com^$important
+@@||cdn6.top^$important
