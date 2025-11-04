@@ -65,10 +65,10 @@
 @@||facebook.com^$important
 @@||sendgrid.net^$important
 @@||a2z.com^$important
-@@||cdn9.top^$important
+@@||nm-cdn9.top^$important
 @@||appsflyer.com^$important
 @@||onelink.me^$important
-@@||cdn6.top^$important
-@@||amungus.us^$important
+@@||nm-cdn6.top^$important
+
 
 
