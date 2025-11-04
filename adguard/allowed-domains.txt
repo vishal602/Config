@@ -68,3 +68,5 @@
 @@||cdn9.top^$important
 @||appsflyer.com^$important
 @@||onelink.me^$important
+@@||.top^$important
+
