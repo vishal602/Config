@@ -66,7 +66,9 @@
 @@||sendgrid.net^$important
 @@||a2z.com^$important
 @@||cdn9.top^$important
-@||appsflyer.com^$important
+@@||appsflyer.com^$important
 @@||onelink.me^$important
-@@||.top^$important
+@@||cdn6.top^$important
+@@||amungus.us^$important
+
 
