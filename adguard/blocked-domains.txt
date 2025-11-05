@@ -1,0 +1,6 @@
+||softwareupdates.amazon.com^
+||updates.amazon.com^
+||prod.tas-cloudfront.net^
+||d1s31zyz7dcc2d.cloudfront.net^
+||amzdigital-a.akamaihd.net^
+||amzdigitaldownloads.edgesuite.net^
