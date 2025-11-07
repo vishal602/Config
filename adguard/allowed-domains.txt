@@ -68,7 +68,4 @@
 @@||nm-cdn9.top^$important
 @@||appsflyer.com^$important
 @@||onelink.me^$important
-@@||nm-cdn6.top^$important
-
-
-
+@@||nm-cdn*.top^$important
