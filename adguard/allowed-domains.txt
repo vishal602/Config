@@ -65,7 +65,6 @@
 @@||facebook.com^$important
 @@||sendgrid.net^$important
 @@||a2z.com^$important
-@@||nm-cdn9.top^$important
-@@||appsflyer.com^$important
-@@||onelink.me^$important
 @@||nm-cdn*.top^$important
+@@||freecdn*.top^$important
+
