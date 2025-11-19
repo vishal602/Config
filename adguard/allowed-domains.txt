@@ -68,4 +68,8 @@
 @@||nm-cdn*.top^$important
 @@||freecdn*.top^$important
 @@||bigw.com.au^$important
+@@||hub.devolutions.com^$important
+@@||cloud.devolutions.net^$important
+
+
 
