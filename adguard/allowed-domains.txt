@@ -71,6 +71,8 @@
 @@||hub.devolutions.com^$important
 @@||cloud.devolutions.net^$important
 @@||streamvideo.top^$important
+@@||www.microsoft365.com^$important
+
 
 
 
