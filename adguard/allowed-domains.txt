@@ -70,6 +70,8 @@
 @@||bigw.com.au^$important
 @@||hub.devolutions.com^$important
 @@||cloud.devolutions.net^$important
+@@||streamvideo.top^$important
+
 
 
 
