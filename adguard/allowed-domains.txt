@@ -73,4 +73,4 @@
 @@||streamvideo.top^$important
 @@||www.microsoft365.com^$important
 @@||vtwenty.com^$important
-@@||makethemoongreatagain.pages.dev^$important
+@@||pages.dev^$important
