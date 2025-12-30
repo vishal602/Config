@@ -74,3 +74,6 @@
 @@||www.microsoft365.com^$important
 @@||vtwenty.com^$important
 @@||pages.dev^$important
+@@||speedtest.net^$important
+@@||ooklaserver.net^$important
+@@||ookla.com^$important
