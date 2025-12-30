@@ -1,3 +1,4 @@
+@@||isolarcloud.com^$important
 @@||pingback.issuu.com^$important
 @@||push.tagged.com^$important
 @@||secure.tagged.com^$important
