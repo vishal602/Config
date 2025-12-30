@@ -77,3 +77,5 @@
 @@||speedtest.net^$important
 @@||ooklaserver.net^$important
 @@||ookla.com^$important
+@@||chat.deepseek.com^$important
+
