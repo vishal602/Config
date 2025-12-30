@@ -78,4 +78,5 @@
 @@||ooklaserver.net^$important
 @@||ookla.com^$important
 @@||ziffstatic.com^$important
+@@||st-noc.com^$important
 @@||chat.deepseek.com^$important
