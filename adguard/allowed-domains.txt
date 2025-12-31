@@ -1,3 +1,4 @@
+@@||kasmweb.com^$important
 @@||isolarcloud.com^$important
 @@||pingback.issuu.com^$important
 @@||push.tagged.com^$important
