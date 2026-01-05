@@ -1,3 +1,5 @@
+@@||hcf.com.au^$important
+@@||medibank.com.au^$important
 @@||kasmweb.com^$important
 @@||isolarcloud.com^$important
 @@||pingback.issuu.com^$important
