@@ -1,3 +1,4 @@
+@@||deepseek.com^$important
 @@||zscloud.net^$important
 @@||admin.private.zscaler.com^$important
 @@||update.ixsystems.com^$important
