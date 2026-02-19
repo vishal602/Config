@@ -1,3 +1,4 @@
+@@||oraclecloud.com^$important
 @@||oracle.com^$important
 @@||deepseek.com^$important
 @@||zscloud.net^$important
