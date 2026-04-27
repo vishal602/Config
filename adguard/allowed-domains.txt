@@ -1,5 +1,3 @@
-@@||rpm.newrelic.com^$important
-@@||login.newrelic.com^$important
 @@||tor.bravesoftware.com^$important
 @@||realestate.com.au^$important
 @@||oraclecloud.com^$important
