@@ -49,7 +49,7 @@
 @@||signmee.com^$important
 @@||signmee.com.au^$important
 @@||app-de.onetrust.com^$important
-@@||pradaxtech.tk^$important
+@@||pradaxtech.com^$important
 @@||adash-emas.cn-hangzhou.aliyuncs.com^$important
 @@||iwantthatflight.com.au^$important
 @@||wa.me^$important
